@@ -1,0 +1,22 @@
+{
+  "name": "splintgate",
+  "version": "1.0.0",
+  "description": "website for splintgate developers company",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codezuma/splintgate.git"
+  },
+  "author": "chandresh patidar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codezuma/splintgate/issues"
+  },
+  "homepage": "https://github.com/codezuma/splintgate#readme",
+  "dependencies": {
+    "locomotive-scroll": "^4.1.4"
+  }
+}
